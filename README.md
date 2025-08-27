@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-A Web Dashbord for Nmap XML Report 
+A Web Dashbord for Nmap XML Report ( A copy from....)
 </p>
 
 ## Table Of Contents
@@ -14,7 +14,6 @@ A Web Dashbord for Nmap XML Report
 - [RESTful API](#restful-api)
 - [Third Parts](#third-parts)
 - [Security Issues](#security-issues)
-- [Contributors](#contributors)
 - [Contacts](#contacts)
 #If you want to change logo, url header => let change file pdf.py (access container to change)
 ## Screenshot
